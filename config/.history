@@ -3162,3 +3162,60 @@ clear
 D:
 cd Projects\mobile-banking-rn\
 clear
+clear
+D:
+cd Projects\mobile-banking-rn\
+;s
+clear
+C:
+cd ../
+ls
+cd tools\
+cd cmder\
+git remote add https://github.com/aisy/myCmder.git
+git remote add origin https://github.com/aisy/myCmder.git
+git add .
+react-native init briLife
+cd briLife\
+git init
+clear
+clear
+D:
+cd Projects\mobile-banking-rn\
+code .
+npm install react-navigation --save
+react-native link react-native-gesture-handler
+npm react-native-gesture-handler
+npm install react-native-gesture-handler --save
+clear
+npm i react-native-vector-icons --save
+react-native-link
+react-native link
+cd Projects\mobile-banking-rn\
+clear
+emulator @pixel
+clea
+ls
+react-native init briLife
+clear
+clea
+D:
+cd Projects\
+ls
+rm -rf brilife
+react-native init briLife
+clear
+cd briLife\
+rm -rf brilife
+react-native init briLife
+git init
+clear
+clear
+D:
+cd Projects\mobile-banking-rn\
+cd ../
+cd briLife\
+ls
+react-native run-android
+clear
+react-native start
