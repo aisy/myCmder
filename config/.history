@@ -3219,3 +3219,32 @@ ls
 react-native run-android
 clear
 react-native start
+react-native run-android
+react-native start
+cd../
+cd..
+cd tools\
+cd cmder\
+git status
+git commit -m "fist upload"
+git add .
+git commit -m "first upload"
+git push origin master
+clear
+clear
+emulator @pixel
+git add .
+git commit -m "first upload"
+git push origin master
+cd ../tools
+cd ../../tools
+cd cmder\
+git add fonts\
+ls
+touch readme.md
+code readme.md 
+D:
+cd Projects\mobile-banking-rn\
+clear
+react native start
+react-native start
