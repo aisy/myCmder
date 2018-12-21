@@ -1,0 +1,3164 @@
+npm i create-react-app
+npm i create-react-native-app
+npm i react-native-cli -g
+D: 
+cd Users\Aisy\Documents\Projects\
+dir
+cd cobaExpo\
+clear
+D: 
+cd Users\Aisy\Documents\Projects\
+dir
+cd cobaExpo\
+cd ../
+D:
+cd Users\Aisy\Documents\
+ls
+C:
+npm i expo-cli --global
+clear
+npm i expo-cli --global
+clear
+react-native run-android
+exit
+npm i expo-cli --global
+E:
+ls
+cd Projects\
+react-native init banking
+cd banking
+clear
+react-native start
+E
+E:
+cd Projects\
+cd banking
+react-native start
+clear
+exit
+react-native start
+clear
+react-native run-android
+exit
+react-native start
+E:
+cd Projects\banking
+clear
+react-native run-android
+clear
+react-native run-android
+exit
+react-native start
+E:
+cd Projects\banking
+clear
+emulator
+code .
+npm i react-native-swipper --save
+npm i react-native-swiper --save
+emulator @Nexus
+react-native run-android
+react-native start
+clear
+exit
+react-native start
+clear
+react-native run-android
+exit
+E:
+cd Projects\banking
+react-native run-android
+react-native start --reset-cache
+clear
+adb devices
+react-native start
+E:
+emulator @Nexus5x
+E:
+code .
+npm i react-native-snap-carousel
+npm i react-native-snap-carousel --save
+E:
+cd Projects\banking
+E:
+react-native start
+E:
+E:
+cd Projects\banking
+npm i react-navigation
+react-native start
+clear
+exit
+E:
+react-native start
+exit
+react-native start
+emulator @Nexus5x
+exit
+react-native run-android
+react-native start --reset-cache
+clear
+adb devices
+react-native start
+E:
+emulator @Nexus5x
+E:
+npm i react-native-snap-carousel
+npm i react-native-snap-carousel --save
+E:
+cd Projects\banking
+E:
+react-native start
+E:
+E:
+cd Projects\banking
+npm i react-navigation
+react-native start
+exit
+react-native start
+exit
+react-native start
+emulator @Nexus5x
+exit
+go -version
+go lang -v
+go -v
+go --v
+go version
+E:
+cd Projects\
+mkdir golang
+cd golang
+mkdir -p $GOPATH/src/github.com/aisy/belajarGo
+C:
+cd ../../../
+cd %USERPROFILE%\go\
+cd src\
+mkdir hello
+code hello.go
+rm src.exe
+rm hello.go
+touch hello.go
+code .
+go install
+cd ../
+hello
+cd $GOPATH
+cd GOPATH
+echo $GOPATH
+cd %GOPATH%
+cd %GOPATH%/cd
+cd %GOPATH%/src
+cd hello
+go build
+ls
+hello.exe
+clear
+go run
+go run hello.go
+exit
+emulator @Nexus5x
+exit
+exit
+%PROJECTS%
+exit
+%PROJECTS%
+%projects%
+clear
+cd %projects%
+emulator @Nexus5x
+exit
+exit
+%PROJECTS%
+%PROJECTS%
+%projects%
+cd %projects%
+npm i @material-ui/icons --save
+cd ../
+curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
+cd framworkWeb\
+ls
+npm i --save react-jss/lib/JssProvider
+cls
+git init
+git remote add origin https://gitlab.com/aisy/nyan-native.git
+git add .
+clear
+exit
+clear
+go run
+go run hello.go
+exit
+emulator @Nexus5x
+exit
+exit
+%PROJECTS%
+%PROJECTS%
+%projects%
+cd %projects%
+E:
+mkdir framworkWeb
+cd framworkWeb\
+npm init
+npm i --save next react react-dom
+code package.json 
+code .
+npm i --save @material-ui/core
+npm install --save react-jss
+clear
+npm run dev
+exit
+mkdir framworkWeb
+npm init
+npm i --save next react react-dom
+code package.json 
+code .
+npm i --save @material-ui/core
+npm install --save react-jss
+cd %projects%
+E:
+cd framworkWeb\
+npm run build
+cd ../
+npm i create-next-apps
+npm i create-next-app
+create-next-app my-app
+npm install -g create-next-app
+crate-next-app webFramework
+create-next-app webFramework
+cd webFramework\
+npm rund ev
+npm rund dev
+npm run dev
+clear
+exit
+create-next-app my-app
+npm install -g create-next-app
+crate-next-app webFramework
+create-next-app webFramework
+cd webFramework\
+npm rund ev
+npm rund dev
+npm run dev
+exit
+npm i jss-provider -g --save
+git clear
+cls
+npm i react-jss -g --save
+npm i react-jss --save
+git add package-lock.json 
+git add package.json 
+git commit -m "menambahkan module react jss"
+git add pages\_app.js 
+git add pages\_documents.js 
+git add src/
+git commit -m "menambah konfigurasi agar Material-ui terbaca"
+git status
+git add components\nav.js 
+git commit -m "membuat component Navigasi"
+git push origin master
+clear
+curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
+cd framworkWeb\
+ls
+npm i --save react-jss/lib/JssProvider
+clear
+exit
+clear
+go run
+go run hello.go
+exit
+emulator @Nexus5x
+exit
+exit
+%PROJECTS%
+%PROJECTS%
+%projects%
+cd %projects%
+E:
+mkdir framworkWeb
+cd framworkWeb\
+npm init
+npm i --save next react react-dom
+code package.json 
+npm i --save @material-ui/core
+npm install --save react-jss
+exit
+git remote rm origin
+git remote add origin https://gitlab.com/aisy/nyan-framework.git
+git config --global user.email aisymuhammad@gmail.com
+git config --global user.username aisy
+git commit -m "add project to repo"
+git sttaus
+cd banking
+git remote add origin https://gitlab.com/aisy/nyan-native.git
+cd ../
+cd webFramework\
+code .
+git init
+git remote add origin https://gitlab.com/aisy/brinetcom-webframework.git
+git add .
+git commit -m "create project"
+git add README.md 
+git commit -m "mengubah isi dokumentasi"
+npm i @material-ui/core
+npm i @material-ui/core --save
+git commit -m "menambahkan Material-UI"
+clear
+npm i @material-ui/icons
+git status
+git add package.json 
+git add package-lock.json 
+git commit -m "menambahkan module material icon"
+git push origin master
+npm run dev
+cls
+exit
+git add package-lock.json 
+git commit -m "menambahkan module material icon"
+git push origin master
+cls
+cd %projects%
+E:
+cd framworkWeb\
+git status
+cd ..\webFramework\
+npm run dev
+cd ../\
+cd banking
+react-native start
+clear
+react-native start clear-cache
+git status
+git add package.json 
+git add package-lock.json 
+git commit -m "menambahkan module material icon"
+git push origin master
+npm run dev
+cls
+exit
+react-native run-andrioid
+react-native run-android
+clear
+adb devices
+git commit -m "menambahkan module material icon"
+git push origin master
+npm run dev
+cls
+exit
+cd ../web
+cd ..\webFramework\
+cd ..\banking
+lear
+clear
+emulator @Nexus5x
+emulator @Nexus5x
+abd devices
+adb devices
+e:
+cd Projects\banking
+clear
+react-native start
+react-native start --reset-cache
+cd %projects%
+E:
+cd banking
+react-native run-android
+adb devices
+clear
+emulator @Pixel
+emulator @pixel
+clear
+@emulator @pixel
+@emulator @pixel
+clear
+adb devices
+clear
+@emulator @pixel
+clear
+@emulator @pixel
+emulator
+adb
+emulator @Pixel
+clear
+@emulator @pixel
+@emulator @pixel
+clear
+adb devices
+clear
+@emulator @pixel
+@emulator @pixel
+C:\Users\Aisy\AppData\Local\Android\Sdk\emulator\
+cd Users\Aisy\AppData\Local\Android\Sdk\platform-tools
+emulator -list
+cd ../../../../
+cd ../
+D:
+emulator
+clear
+emulator @pixel
+emulator @pixel
+adb
+clear
+adb devices
+exit
+emulator @pixel
+emulator @pixel
+clear
+exit
+emulator @pixel
+exit
+react-native run-android
+exit
+cd %projects%
+E:
+cd banking
+react-native start
+clear
+exit
+adb devices
+exit
+cd %projects%
+E:
+emulator @pixel
+exit
+code .
+exit
+cd %projects%
+E:
+clear
+cd banking
+react-native start
+exit
+cd banking
+react-native start
+exit
+emulator @pixel
+E:
+emulator @pixel
+exit
+code .
+exit
+exit
+cd %projects%
+E:
+cd banking
+clear
+react-native start
+cd %projects%
+E:
+cd banking
+react-native start
+exit
+git remote rm origin
+git remote add origin https://gitlab.com/SATKOMINDO-Developers/mobile-banking-rn.git
+git status
+npm i react-native-vector-icons
+npm i react-native-vector-icons --save
+clear
+react-native link react-native-vector-icons
+react-native run-android
+npm i react-native-vector-icons
+npm i react-native-vector-icons --save
+react-native link react-native-vector-icons
+react-native run-android
+E:
+cd D:
+cd Pro
+D:
+cd Projects\
+git clone https://gitlab.com/SATKOMINDO-Developers/mobile-banking-rn.git
+ls
+cd mobile-banking-rn\
+clear
+emulator @pixel
+exit
+adb devices
+clear
+emulator @pixel
+emulator @pixel
+exit
+adb devices
+E:
+cd D:
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+npm install
+npm install react-native-cli -g
+react-native link 
+react-native run-android
+react-native start --cache clear
+react-native start --clear cache
+react-native start -clear cache
+react-native start clear-cache
+clear
+D:
+cd Projects\
+cd ban
+cd mobile-banking-rn\
+git status
+react-native start --reset-cache
+clear
+exit
+react-native start clear-cache
+emulator @pixel
+git status
+git add user.username aisy
+git config --global user.email aisymuhammad@gmail.com
+git config --global user.name aisy
+git checkout aisy
+git checkout -b aisy
+clear
+exit
+emulator @pixel
+exit
+D:
+cd Projects\mobile-banking-rn\
+code .
+clear
+npm install native-base -g
+exit
+clear
+emulator @pixel
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+exit
+exit
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+exit
+exit
+emulator @pixel
+exit
+exit
+exit
+react-native start clear-cache
+emulator @pixel
+git add user.username aisy
+git config --global user.email aisymuhammad@gmail.com
+git config --global user.name aisy
+git checkout -b aisy
+clear
+exit
+emulator @pixel
+exit
+D:
+cd Projects\mobile-banking-rn\
+clear
+npm install native-base -g
+exit
+clear
+emulator @pixel
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+exit
+exit
+git statuss
+git status
+git checkout -b master
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+C:
+cd %GOPATH%
+echo %GOPATH%
+mkdir -p %GOPATH%/src/github.com/user/hello
+mkdir -p $GOPATH/src/github.com/user/hello
+mkdir $GOPATH/src/github.com/user/hello
+mkdir %GOPATH%/src/github.com/user/hello
+mkdir -p %GOPATH%src/github.com/user
+mkdir -p %GOPATH%/src/github.com/user
+mkdir %USERPROFILE%\go\src\hello
+cd %USERPROFILE%\go\src\hello
+go install
+rm hello
+rm -d hello\
+rmdir hello
+rm -rf hello
+c:
+cd %Profile%
+cd %PROFILE%
+%PROFILE%
+cd ../
+mkdir %GOPATH%\src\hello
+cd %GOPATH%\src\hello
+code .
+go build
+ls
+hello
+clear
+exit
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+emulator @pixel
+clear
+exit
+hello
+clear
+exit
+cd Projects\
+C:
+cd ../../
+D:
+cd mobile-banking-rn\
+git checkout master
+react-native start
+clear
+exit
+clear
+exit
+exit
+mkdir %GOPATH%\src\webService
+cd %GOPATH%\src\webService
+ls
+touch main.go
+code .
+go get -u github.com/golang/dep/cmd/dep
+dep init 
+git init
+git uninit
+rm -rf .git
+clear
+clear
+cd %GOPATH%\src\webService
+ls
+dep init
+dep init
+D:
+mkdir Iseng
+cd Iseng
+composer create-project kenjis/codeigniter-composer-installer codeigniter
+ls
+cd codeigniter\
+code .
+go get -u github.com/golang/dep/cmd/dep
+exit
+ls
+cd codeigniter\
+code .
+go get -u github.com/golang/dep/cmd/dep
+clear
+emulator @pixel
+exit
+ls
+cd codeigniter\
+code .
+go get -u github.com/golang/dep/cmd/dep
+D:
+cd Projects\mobile-banking-rn\
+react-native run-android
+react-native start
+clear
+exit
+clear
+ls
+dep init
+dep init
+mkdir Iseng
+cd Iseng
+composer create-project kenjis/codeigniter-composer-installer codeigniter
+cd codeigniter\
+code .
+go get -u github.com/golang/dep/cmd/dep
+D:
+cd Projects\
+c:
+cd %GOPATH%\src\webService
+dep
+cd github.com\
+cd ../
+ls
+cd hello\
+go build
+hello
+go run
+go run hello.go
+clear
+exit
+cd codeigniter\
+code .
+go get -u github.com/golang/dep/cmd/dep
+D:
+cd Projects\
+c:
+cd %GOPATH%\src\webService
+dep
+cd github.com\
+cd ../
+ls
+cd hello\
+go build
+hello
+go run
+go run hello.go
+exit
+react-native-svg
+npm i react-native-svg -g --save
+react-native link
+npm uninstall react-content-loader
+npm install react-native-svg d3-interpolate --save
+npm install react-native-content-loader
+git stash save
+git pull origin master
+git stash poop
+git stash pop
+clear
+react-native link react-native-svg
+
+npm i react-native-remote-svg --save
+react-native run-android
+go run
+go run hello.go
+clear
+exit
+emulator @pixel
+c:
+cd %GOPATH%\src\webService
+dep
+cd github.com\
+cd ../
+ls
+cd hello\
+go build
+hello
+go run
+go run hello.go
+exit
+D:
+cd Projects\mobile-banking-rn\
+git stash save
+git checkout aisy
+\git stash pop
+git stash pop
+git status
+npm i react-content-loader --save
+npm install
+react-native start --reset-cache
+npm i react-content-loader -g --save
+clear
+react-native start
+react-native run-android
+git checkout aisy
+clear
+exitr
+exit
+react-native start --reset-cache
+npm i react-content-loader -g --save
+react-native start
+react-native run-android
+git checkout master
+git pull origin master
+git merge aisy
+git status
+git push origin master
+clear
+emulator @pixel
+exit
+npm i react-content-loader --save
+npm install
+npm i react-content-loader -g --save
+react-native start
+D:
+cd Projects\
+cd mobile-banking-rn\
+adb devices
+react-native run-android
+clear
+react-native start --reset-cache
+exit
+npm i react-content-loader --save
+npm install
+npm i react-content-loader -g --save
+react-native start
+D:
+cd Projects\
+cd mobile-banking-rn\
+adb devices
+react-native run-android
+react-native start --reset-cache
+exit
+git pull origin master
+git stash save
+cls
+git checkout master
+git merge aisy
+git push origin master
+git status
+git stash
+git checkout aisy
+git stash pop
+clear
+react-native start --reset-cache
+exit
+emulator @pixel
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+clear
+react-native start
+emulator @pixel
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+clear
+react-native start
+react-native linkk
+react-native link
+android --clean-cache
+clean
+react-native run-android
+exit
+react-native start
+emulator @pixel
+exit
+git checkout aisy
+git stash pop
+clear
+exit
+emulator @pixel
+ls
+D;
+D:\Project
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+cd android
+gradlew clean
+cd ../
+react-native start --reset-cache
+ls
+cd mobile-banking-rn\
+clear
+react-native start
+react-native linkk
+android --clean-cache
+clean
+exit
+react-native start
+emulator @pixel
+exit
+git checkout aisy
+git stash pop
+clear
+exit
+emulator @pixel
+D;
+D:\Project
+D:
+cd Projects\
+cd mobile-banking-rn\
+gradlew clean
+react-native start --reset-cache
+npm install -g react-native-git-upgrade
+react-native-git-upgrade
+git status
+npm install
+react-native update
+y
+npm install react-native-svg -g
+cd android
+gradlew assembleRelease
+cd ../
+rm -r android
+ls
+rm -r ios
+react-native upgrade
+react native link
+react-native link
+react-native start
+adb devices
+clear
+npm i schedule@0.4.0 --save-dev
+react-native run-android
+yarn add @babel/runtime@7.0.0
+choco install yarn
+exit
+git checkout aisy
+git stash pop
+clear
+exit
+emulator @pixel
+D;
+D:\Project
+cd android
+gradlew clean
+D:
+cd Projects\
+m
+cd mobile-banking-rn\
+ls
+git statyus
+git pull origin aisy
+code .
+cd android\
+gradlew
+cd ../
+npm install
+react-native link
+clear
+react-native start --reset-cache
+react-native start
+cd ../
+react-native start --reset-cache
+clear
+emulator @pixel
+cd ../
+react-native link
+clear
+react-native start --reset-cache
+react-native start
+cd ../
+react-native start --reset-cache
+emulator @pixel
+yarn add @babel/runtime@7.0.0
+npm i react
+npm install
+react-native log-android
+clear
+react-native run-android
+exit
+clear
+emulator @pixel
+exit
+react-native start --reset-cache
+emulator @pixel
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+exit
+code .
+clear
+git status
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+exit
+emulator @pixel
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+git status
+git checkout master
+git merge aisy
+git checkout aisy
+lear
+clear
+git pull origin master
+emulator @pixel
+D:
+cd Projects\
+ls
+cdc mobile-banking-rn\
+cd mobile-banking-rn\
+clear
+react-native start
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+exit
+clear
+git status
+git checkout master
+git merge aisy
+git checkout aisy
+emulator @pixel
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+lear
+clear
+emulator @pixel
+D:
+cd Projects\
+cdc mobile-banking-rn\
+react-native start
+git checkout master
+git merge aisy
+ls
+git init
+git remote add origin https://github.com/aisy/list-icon.git
+touch index.php
+git commit -m "upload first"
+git add index.php 
+git commit -m "menambah image"
+git checkout ais
+git checkout aisy
+git merge master
+react-native link
+react-native run-android
+code .
+cd list-icon\
+git pull origin master
+git add .
+git commit -m "menambah icon baru"
+git push origin master
+git status
+cd ../
+cd rn
+cd mobile-banking-rn\
+clear
+exit
+cd mobile-banking-rn\
+clear
+react-native start
+emultaor @pixel
+emulator @pixel
+exit
+cd Projects\
+ls
+cdc mobile-banking-rn\
+cd mobile-banking-rn\
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+react-native start --reset-cache
+clear
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+react-native start --reset-cache
+clear
+adb devices
+emulator @pixel
+git status
+cd ../
+cd rn
+cd mobile-banking-rn\
+clear
+exit
+cd mobile-banking-rn\
+clear
+react-native start
+emultaor @pixel
+emulator @pixel
+exit
+cd Projects\
+ls
+cdc mobile-banking-rn\
+cd mobile-banking-rn\
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+react-native start --reset-cache
+code .
+git checkkout master
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+git pull origin master
+clear
+react-native run-android
+react-native console-android
+react-native log-android
+react-native start
+emultaor @pixel
+emulator @pixel
+exit
+ls
+cdc mobile-banking-rn\
+cd Projects\mobile-banking-rn\
+D:
+cd Projects\
+cd mobile-banking-rn\
+git pull origin master
+clear
+react-native start --reset-cache
+react-native start
+emulator @pixel
+exit
+ls
+cdc mobile-banking-rn\
+cd Projects\mobile-banking-rn\
+D:
+cd Projects\
+cd mobile-banking-rn\
+git pull origin master
+react-native start --reset-cache
+react-native start
+code .
+react-native build
+react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/build/intermediates/assets/debug/index.android.bundle --assets-dest ./android/app/build/intermediates/res/merged/debug
+cd android
+./gradlew assembleDebug
+gradlew assembleDebug
+cd android\
+gradlew clean
+cd ../
+react-native run-android
+clear
+react-native start
+emulator @pixel
+git pull origin master
+react-native start --reset-cache
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+clear
+react-native start
+cdc mobile-banking-rn\
+cd Projects\mobile-banking-rn\
+D:
+cd Projects\
+cd mobile-banking-rn\
+git pull origin master
+clear
+react-native start --reset-cache
+react-native start
+emulator @pixel
+exit
+ls
+cdc mobile-banking-rn\
+cd Projects\mobile-banking-rn\
+D:
+cd Projects\
+cd mobile-banking-rn\
+git pull origin master
+react-native start --reset-cache
+react-native start
+code .
+react-native build
+react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/build/intermediates/assets/debug/index.android.bundle --assets-dest ./android/app/build/intermediates/res/merged/debug
+cd android
+./gradlew assembleDebug
+gradlew assembleDebug
+clear
+react-native start
+emulator @pixel
+react-native start --reset-cache
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+react-native start
+react-native link
+adb devices
+gradlew reset
+gradlew clean
+npm install
+cd android\
+gradlew app:dependencies
+cd ../
+npm upgrade
+react-native run-android
+git checkout master
+git merge aisy
+git push origin master
+git status
+git checkout aisy
+git pull origin master
+clear
+cd mobile-banking-rn\
+react-native start
+clear
+emulator @pixel
+cd android
+./gradlew assembleDebug
+gradlew assembleDebug
+cd android\
+gradlew clean
+cd ../
+react-native run-android
+clear
+react-native start
+emulator @pixel
+git pull origin master
+cd Projects\
+ls
+cd mobile-banking-rn\
+D;
+D:
+cd Projects\mobile-banking-rn\
+git status
+react-native start
+clear
+react-native start --reset-cache
+D;
+D:
+cd Projects\mobile-banking-rn\
+git status
+react-native start
+react-native start --reset-cache
+cd ../
+ls
+cd list-icon\
+git commit -m "menambah icon png ukuran 512x512"
+cd ..\mobile-banking-rn\
+react-native link
+react-native run-android
+clear
+git pull origin master
+git pull origin aisy
+cd ..\list-icon\ git add .
+cd ..\list-icon\
+git add .
+git commit -m "menambah icon baru"
+git push origin master
+D:
+cd Projects\mobile-banking-rn\
+git status
+react-native start
+react-native start --reset-cache
+emulator @pixel
+react-native run-android
+yarn add react-native-fetch-blob
+npm i react-native-fetch-blob --save
+npm install react-native-fetch-blob --save
+npm install react-native-cached-image --save
+clear
+emulator "pixel
+emulator -avd pixel
+cd Projects\mobile-banking-rn\
+git status
+react-native start --reset-cache
+D:
+cd laravel
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+D:
+cd Projects\list-icon\
+git add .
+git commit -m "fix icon baru"
+git push origin master
+react-native start --reset-cache
+D:
+cd laravel
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+react-native run-android
+clear
+exit
+cd mobile-banking-rn\
+clear
+react-native start
+npm install react-native-img-cache --save
+npm audit fix
+emulator @pixel
+exit
+emulator @pixel
+exit
+exit
+cd mobile-banking-rn\
+react-native start
+npm install react-native-img-cache --save
+emulator @pixel
+clear
+react-native unlink
+react-native unlink react-native-remote-svg
+npm install react-native-svg
+npm audit fix
+react-native run-android
+exit
+clear
+react-native start
+npm install react-native-img-cache --save
+npm audit fix
+emulator @pixel
+exit
+emulator @pixel
+exit
+exit
+cd mobile-banking-rn\
+react-native start
+npm install react-native-img-cache --save
+emulator @pixel
+react-native unlink
+react-native unlink react-native-remote-svg
+npm install react-native-svg
+npm audit fix
+git pull origin aist
+git pull origin aisy
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+git pull origin master
+clear
+react-native run-android
+exit
+npm audit fix
+emulator @pixel
+exit
+emulator @pixel
+exit
+exit
+cd mobile-banking-rn\
+react-native start
+npm install react-native-img-cache --save
+react-native unlink
+react-native unlink react-native-remote-svg
+npm install react-native-svg
+npm audit fix
+react-native run-android
+clear
+emulator @pixel
+exit
+npm audit fix
+react-native run-android
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+exit
+D:
+cd Projects\belajar\
+npm start
+cd %GOPATH%/src/hello
+clear
+C:
+go build
+ls
+hello
+code .
+exit
+emulator @pixel
+exit
+exit
+cd mobile-banking-rn\
+react-native start
+npm install react-native-img-cache --save
+react-native unlink
+react-native unlink react-native-remote-svg
+npm install react-native-svg
+npm audit fix
+react-native run-android
+clear
+emulator @pixel
+exit
+npm audit fix
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+git stash save
+git merge master
+git stash pop
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+git pull origin master
+clear
+react-native run-android
+exit
+npm audit fix
+react-native run-android
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+clear
+emulator @pixel
+exit
+cd Projects\mobile-banking-rn\
+git status
+react-native start
+react-native start --reset-cache
+cd list-icon\
+git commit -m "menambah icon png ukuran 512x512"
+react-native link
+react-native run-android
+clear
+git pull origin master
+git pull origin aisy
+cd ..\list-icon\ git add .
+git commit -m "menambah icon baru"
+D:
+cd Projects\mobile-banking-rn\
+git status
+react-native start
+react-native start --reset-cache
+emulator @pixel
+react-native run-android
+yarn add react-native-fetch-blob
+npm i react-native-fetch-blob --save
+npm install react-native-fetch-blob --save
+npm install react-native-cached-image --save
+clear
+emulator "pixel
+emulator -avd pixel
+cd laravel
+cd Projects\
+cd mobile-banking-rn\
+D:
+cd Projects\mobile-banking-rn\
+npm uninstall react-native-remote-svg
+npm uninstall react-native-svg
+npm uninstall react-native-img-cache
+react-native --reset-cache
+cd ..\list-icon\
+git commit -m "menambah ikon baru"
+git push origin mastre
+git add .
+git commit -m "menambah icon png"
+git push origin master
+cd ../
+npm i react-app -g --save
+react-app init belajar
+npm i create-react-app -g --save
+create-react-app init belajar
+create-react-app belajar
+cd belajar
+git status
+ls
+npm start
+cd ..\mobile-banking-rn\
+react-native start --reset-cache
+clear
+react-native start
+cd ..\list-icon\
+git commit -m "menambah ikon baru"
+git push origin mastre
+git add .
+git commit -m "menambah icon png"
+cd ../
+npm i react-app -g --save
+react-app init belajar
+npm i create-react-app -g --save
+create-react-app init belajar
+create-react-app belajar
+cd belajar
+ls
+npm start
+cd ..\mobile-banking-rn\
+react-native start --reset-cache
+react-native start
+react-native link
+git push origin aisy
+react-native run-android
+git status
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+git pull origin aisy
+git pull origin master
+clear
+exit
+create-react-app belajar
+cd belajar
+git status
+ls
+npm start
+cd ..\mobile-banking-rn\
+react-native start --reset-cache
+clear
+react-native start
+git stash savev
+git stash save
+git pull origin master
+git stash pop
+emulator @pixel
+exit
+git status
+ls
+npm start
+cd ..\mobile-banking-rn\
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+react-native start --reset-cache
+exit
+react-native start --reset-cache
+exit
+emulator @pixel
+git pull origin master
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+cd %GOPATH%/src/hello
+hello
+clear
+react-native start
+emulator @pixel
+exit
+create-react-app belajar
+cd belajar
+git status
+ls
+npm start
+cd ..\mobile-banking-rn\
+react-native start --reset-cache
+clear
+react-native start
+git stash savev
+git pull origin master
+emulator @pixel
+exit
+ls
+npm start
+cd ..\mobile-banking-rn\
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+react-native start --reset-cache
+exit
+react-native start --reset-cache
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+git checkout
+git pull origin aisy
+git checkout master
+git merge aisy
+git push origin master
+git push origin aisy
+npm i react-native-modal-datetime-picker --save
+npm audit fix
+emulator @pixel
+git stash save
+git checkout aisy
+git stash pop
+git status
+git pull origin master
+clear
+react-native link
+react-native run-android
+exit
+exit
+react-native start --reset-cache
+emulator @pixel
+git pull origin master
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+clear
+react-native start
+exit
+cd mobile-banking-rn\
+react-native start
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git stash save
+git checkout aisy
+git stash pop
+clear
+react-native run-android
+react-native log-android
+exit
+clear
+react-native start
+emulator @pixel
+exit
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+clear
+react-native start
+exit
+cd mobile-banking-rn\
+clear
+react-native start
+exit
+git stash save
+git pull origin master
+git stash pop
+react-native link
+react-native run-android
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+emulator @pixel
+D:
+ls
+cd Iseng\
+cd ..\Projects\belajar\
+clear
+npm start
+react-native link
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+emulator @pixel
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+git pull origin master
+clear
+react-native run-android
+exit
+emulator @pixel
+exit
+cd mobile-banking-rn\
+emulator @pixel
+D;
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+clear
+exit
+clear
+emulator @pixel
+exit
+react-native run-android
+exit
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+exit
+react-native start
+clear
+exit
+clear
+emulator @pixel
+exit
+exit
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+git push origin aisy
+git stash save
+git stash pop
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+react-native run-android
+clear
+exit
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+npm install --save @haskkor/react-native-pincode
+npm audit fix
+react-native link
+react-native run-android
+git stash 
+git stash savve
+git stash save
+git pull origin master
+git stash pop
+exit
+exit
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+clear
+emulator @pixel
+exit
+exit
+clear
+emulator @pixel
+exit
+react-native run-android
+exit
+D:
+cd Projects\mobile-banking-rn\
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git status
+git checkout aisy
+clear
+react-native start --reset-cache
+react-native start
+exit
+exit
+exit
+clear
+emulator @pixel
+exit
+exit
+D:
+cd Projects\mobile-banking-rn\
+react-native start --reset-cache
+react-native start
+react-native run-android
+git status
+git push origin aisy
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+exit
+emulator @pixel
+exit
+react-native start --reset-cache
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+git pull origin aisy
+clear
+react-native start
+exit
+cd Projects\
+ls
+cd mobile-banking-rn\
+git pull origin aisy
+D:
+cd Projects\mobile-banking-rn\
+c;ear
+react-native start
+clear
+exit
+react-native start
+emulator @pixel
+exit
+cd Projects\
+ls
+cd mobile-banking-rn\
+react-native start
+exit
+react-native run-android
+git stash save
+git checkout aisy
+git pull origin aisy
+git stash pop
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+clear
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+ls
+D:
+cd Projects\mobile-banking-rn\
+git checkout aisy
+clear
+react-native start
+exit
+git merge aisy
+git push origin master
+emulator @pixel
+clear
+exit
+cd mobile-banking-rn\
+git pull origin aisy
+clear
+react-native start
+exit
+cd Projects\
+ls
+cd mobile-banking-rn\
+git pull origin aisy
+D:
+cd Projects\mobile-banking-rn\
+c;ear
+react-native start
+clear
+exit
+react-native start
+emulator @pixel
+exit
+cd Projects\
+ls
+cd mobile-banking-rn\
+react-native start
+git stash save
+git pull origin aisy
+git stash pop
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+react-native run-android
+exit
+react-native run-android
+git stash save
+git checkout aisy
+git pull origin aisy
+git stash pop
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+clear
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+ls
+D:
+cd Projects\mobile-banking-rn\
+git checkout aisy
+clear
+react-native start
+exit
+git merge aisy
+git push origin master
+emulator @pixel
+clear
+exit
+cd mobile-banking-rn\
+git pull origin aisy
+clear
+react-native start
+exit
+cd Projects\
+ls
+cd mobile-banking-rn\
+git pull origin aisy
+D:
+cd Projects\mobile-banking-rn\
+c;ear
+react-native start
+clear
+exit
+react-native start
+emulator @pixel
+exit
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+git stash save
+git pull origin aisy
+git stash pop
+git checkout master
+git pull origin master
+git merge aisy
+git checkout aisy
+react-native run-android
+cd %GOPATH%/src/
+cd../
+cd hello\
+cd ../
+cd webService\
+go get -u github.com/go-sql-driver/mysql
+ls
+webService
+Y
+webService.exe
+go run
+xdg-open .
+start
+start .
+git init
+git remote add origin https://gitlab.com/SATKOMINDO-Developers/backendgolang.git
+git commit -m "upload project"
+go build
+git remote rm origin
+git remote add origin https://github.com/aisy/ProjectGolang.git
+clear
+git add .
+git commit -m "menambah project"
+git push origin master
+exit
+cd %GOPATH%/src/
+ls
+cd webService\
+clear
+go build
+webService.exe 
+react-native run-android
+exit
+clear
+emulator @pixel
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+react-native run-android
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+cd %GOPATH%/src/
+cd %GOPATH%/src
+C:
+ls
+cd webService\
+go build
+webService.exe 
+clear
+cd webService\
+clear
+go build
+webService.exe 
+react-native run-android
+exit
+clear
+emulator @pixel
+git checkout master
+git pull origin master
+git merge aisy
+git checkout aisy
+react-native run-android
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+cd %GOPATH%/src/
+cd %GOPATH%/src
+C:
+webService.exe 
+cd %GOPATH%
+cd src\
+cd github.com
+cd.. /
+cd webService\
+cd model\
+go mod -init lol
+go mod init lol
+start .
+go build
+go test
+cd ../../../../
+cd %GOPATH%\src
+cd ../
+cd src
+cd golang.org\
+ls
+cd ..\webService\
+clar
+clear
+git status
+git push origin master
+git remote rm origin
+git remote add origin https://gitlab.com/SATKOMINDO-Developers/backendgolang.git
+exit
+cd %GOPATH%
+cd src\webService\
+clear
+go test
+go build
+start .
+cd %GOPATH%/src
+cd backendgolang\
+code .
+git remote rm origin
+git remote add origin https://gitlab.com/SATKOMINDO-Developers/backendgolang.git
+exit
+cd src\webService\
+start .
+cd %GOPATH%/src
+code .
+cd %GOPATH%
+cd src
+cd backendgolang\
+go test
+ls
+go build
+clear
+backendgolang.exe 
+webService.exe 
+clear
+cd webService\
+clear
+go build
+webService.exe 
+react-native run-android
+exit
+clear
+emulator @pixel
+git pull origin master
+git merge aisy
+git checkout aisy
+react-native run-android
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+cd %GOPATH%/src/
+cd %GOPATH%/src
+C:
+webService.exe 
+cd %GOPATH%
+cd src\
+cd github.com
+cd.. /
+cd webService\
+cd model\
+go mod -init lol
+go mod init lol
+start .
+go build
+go test
+cd ../../../../
+cd %GOPATH%\src
+cd src
+ls
+cd ..\webService\
+clar
+clear
+git status
+git push origin master
+git remote rm origin
+git remote add origin https://gitlab.com/SATKOMINDO-Developers/backendgolang.git
+exit
+cd %GOPATH%
+cd src\webService\
+clear
+go test
+go build
+start .
+cd %GOPATH%/src
+cd backendgolang\
+code .
+git remote rm origin
+git remote add origin https://gitlab.com/SATKOMINDO-Developers/backendgolang.git
+exit
+cd src\webService\
+start .
+cd %GOPATH%/src
+code .
+cd src
+cd %GOPATH%
+cd src/
+cd golang.org\
+git stash save
+git checkout master
+cd github.com\
+cd ../
+ls
+cd backendgolang\
+backendgolang
+git checkout -b aisy
+git pull origin aisy
+go test
+backendgolang.exe 
+clear
+go build
+backendgolang.exe 4
+start .
+cd %GOPATH%/src
+code .
+cd src/
+cd golang.org\
+git stash save
+cd github.com\
+cd ../
+backendgolang
+git checkout -b aisy
+git pull origin aisy
+backendgolang.exe 4
+cd %GOPATH%
+cd src
+cd backendgolang\
+go buildd
+go test
+ls
+go build
+backendgolang.exe 
+git status
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+clear
+cd backendgolang\
+go buildd
+go test
+go build
+backendgolang.exe 
+git status
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+ls
+abd
+adb devices
+react-native run-android
+clear
+code .
+git pull origin master
+git merge aisy
+git push origin master
+clear
+emulator @pixel
+clear
+go build
+backendgolang.exe 4
+cd %GOPATH%/src
+cd src/
+cd golang.org\
+git stash save
+cd github.com\
+backendgolang
+git checkout -b aisy
+git pull origin aisy
+backendgolang.exe 4
+go buildd
+backendgolang.exe 
+git status
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+cd %GOPATH%
+cd src
+backendgolang\
+start .
+cd backendgolang\
+go test
+go build
+D:
+cd Iseng\
+create-react-app react
+create-react-app reactjs
+cd reactjs\
+code .
+npm i -g  create-next-app
+create-next-app nextjs
+cd nextjs\
+npm run devv
+npm run dev
+cd ../
+ls
+react-native-app rnative
+react-native init rnative
+cd rnative\
+clear
+react-native start
+react-native-app rnative
+react-native init rnative
+D:
+cd Iseng\
+ls
+cd rnative\
+react-native start
+clear
+exit
+emulator @pixel
+exit
+exit
+emulator @pixel
+git pull origin master
+git merge aisy
+git push origin master
+clear
+emulator @pixel
+clear
+go build
+backendgolang.exe 4
+cd src/
+cd golang.org\
+git stash save
+cd github.com\
+backendgolang
+git checkout -b aisy
+git pull origin aisy
+backendgolang.exe 4
+go buildd
+git status
+cd %GOPATH%
+cd src
+backendgolang\
+start .
+go test
+D:
+cd Iseng\
+create-react-app react
+create-react-app reactjs
+cd reactjs\
+code .
+npm i -g  create-next-app
+create-next-app nextjs
+cd nextjs\
+npm run devv
+npm run dev
+ls
+react-native-app rnative
+react-native init rnative
+cd rnative\
+clear
+react-native start
+react-native-app rnative
+react-native init rnative
+exit
+emulator @pixel
+exit
+exit
+cd %GOPATH%/src
+cd backendgolang\
+go build
+backendgolang.exe 
+Y
+git pull origin master
+git merge aisy
+git checkout aisy
+git checkout master
+git push origin master
+D:
+cd Pro
+cd Projects\
+cd ../
+ls
+cd Iseng\
+cd rnative\
+ clear
+react-native start
+D:
+cd Projects\mobile-banking-rn\
+react-native run-android
+go test
+D:
+cd Iseng\
+create-react-app react
+create-react-app reactjs
+cd reactjs\
+code .
+npm i -g  create-next-app
+create-next-app nextjs
+cd nextjs\
+npm run devv
+npm run dev
+ls
+react-native-app rnative
+react-native init rnative
+cd rnative\
+react-native start
+react-native-app rnative
+react-native init rnative
+exit
+emulator @pixel
+exit
+exit
+cd %GOPATH%/src
+cd backendgolang\
+Y
+git pull origin master
+git merge aisy
+git checkout aisy
+git checkout master
+git push origin master
+D:
+cd Pro
+cd Projects\
+cd ../
+cd Iseng\
+cd rnative\
+ clear
+react-native start
+cd %GOPATH%
+ls
+cd src\backendgolang\
+
+clear
+go build
+backendgolang.exe 
+ls
+react-native-app rnative
+react-native init rnative
+cd rnative\
+react-native start
+react-native-app rnative
+react-native init rnative
+exit
+emulator @pixel
+exit
+exit
+cd %GOPATH%/src
+cd backendgolang\
+Y
+git merge aisy
+git checkout aisy
+git checkout master
+git push origin master
+D:
+cd Pro
+cd Projects\
+cd ../
+cd Iseng\
+cd rnative\
+ clear
+react-native start
+ls
+cd %GOPATH%
+cd src\backendgolang\
+git pull origin master
+clear
+go build
+backendgolang.exe 
+cd src\backendgolang\
+git pull origin master
+go build
+backendgolang.exe 
+cd ../src
+cd ../
+cd src\flutter\
+flutter doctor --android-license
+flutter doctor --android-licenses
+flutter doctor
+clear
+clear
+emulator @pixel
+cd ../
+cd src\flutter\
+flutter doctor --android-license
+flutter doctor --android-licenses
+flutter doctor
+ipconfig
+npm i --S react-native-aes-kit
+npm audit fix
+react-native link
+react-native run-android
+clear
+flutter doctor --android-licenses
+flutter doctor
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+flutter doctor
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+D:
+cd Iseng\
+create-react-app yolo
+cd yolo\
+cd ../
+cd nextjs
+ls
+code .
+clear
+go build
+backendgolang.exe 
+ls
+react-native-app rnative
+react-native init rnative
+cd rnative\
+react-native start
+react-native-app rnative
+react-native init rnative
+exit
+emulator @pixel
+exit
+exit
+cd %GOPATH%/src
+cd backendgolang\
+Y
+git merge aisy
+git checkout aisy
+git checkout master
+git push origin master
+D:
+cd Pro
+cd Projects\
+cd ../
+cd Iseng\
+cd rnative\
+ clear
+react-native start
+cd src\backendgolang\
+git pull origin master
+clear
+go build
+backendgolang.exe 
+cd src\backendgolang\
+git pull origin master
+backendgolang.exe 
+cd ../src
+cd ../
+cd src\flutter\
+flutter doctor --android-license
+flutter doctor --android-licenses
+flutter doctor
+clear
+clear
+emulator @pixel
+cd src\flutter\
+flutter doctor --android-license
+flutter doctor --android-licenses
+flutter doctor
+ipconfig
+npm i --S react-native-aes-kit
+npm audit fix
+react-native link
+react-native run-android
+clear
+flutter doctor --android-licenses
+flutter doctor
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+cd %GOPATH%
+cd src
+mkdir gogin
+cd gogin
+go get gopkg.in/gin-gonic/gin.v1
+go get -u github.com/gin-gonic/gin
+go get -u github.com/jinzhu/gorm
+touch main.go
+ls
+code .
+tree
+tree /F
+tree -L num
+tree -L
+tree -i -f
+tree -f
+tree /f /a
+tree /f prn
+tree /f /a /?
+tree /a
+tree /f
+clear
+go build
+gogin.exe 
+touch .gitignore
+cd ../
+start
+start .
+D:
+c:
+cd %GOPATH%
+cd src
+ls
+cd frameworkgolang\
+code .
+tree /a
+gogin.exe 
+touch .gitignore
+start
+start .
+D:
+c:
+cd src
+cd frameworkgolang\
+code .
+cd %GOPATH%
+cd src\frameworkgolang\
+tree /f
+cd ../
+ls
+cd backendgolang\
+clear
+go build
+backendgolang.exe 
+git checkout master
+git merge aisy
+git push origin master
+clear
+git checkout aisy
+cd src\frameworkgolang\
+tree /f
+cd ../
+ls
+cd backendgolang\
+clear
+go build
+backendgolang.exe 
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+npm uninstall react-native-aes-kit
+npm install --save react-native-aes-crypto
+npm uninstall react-native-aes-crypto
+npm audit fix
+react-native link
+clear
+react-native run-android
+emulator @pixel
+flutter doctor --android-licenses
+flutter doctor
+D:
+cd Projects\mobile-banking-rn\
+cd %GOPATH%
+cd src
+mkdir gogin
+cd gogin
+go get gopkg.in/gin-gonic/gin.v1
+go get -u github.com/gin-gonic/gin
+go get -u github.com/jinzhu/gorm
+touch main.go
+ls
+code .
+tree
+tree /F
+tree -L num
+tree -L
+tree -i -f
+tree -f
+tree /f /a
+tree /f prn
+tree /f /a /?
+tree /a
+tree /f
+clear
+go build
+gogin.exe 
+touch .gitignore
+cd ../
+start
+start .
+D:
+c:
+cd %GOPATH%
+cd src
+ls
+cd frameworkgolang\
+code .
+tree /a
+gogin.exe 
+touch .gitignore
+start
+start .
+c:
+cd src
+code .
+cd %GOPATH%
+cd src\frameworkgolang\
+tree /f
+cd backendgolang\
+backendgolang.exe 
+cd %GOPATH%/src
+cls
+cd frameworkgolang\
+git status
+gi build
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+checkout aisy
+git checkout aisy
+go build
+frameworkgolang.exe 
+cd ../
+cd../
+cleare
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+react-native run-android
+clear
+react-native start
+go version
+react-native run-android
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native run-android
+cd Projects\mobile-banking-rn\
+D:
+c:
+cd %GOPATH%/src/
+cd frameworkgolang\
+go build
+frameworkgolang.exe 
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+git pull origin master
+git checkout aisy
+git pull origin master
+D:
+cd Projects\mobile-banking-rn\
+clear
+ipconfig
+exit
+react-native start
+exit
+emulator @pixel
+exit
+exit
+cd %GOPATH%/src
+cd frameworkgolang\
+go build
+frameworkgolang.exe 
+clear
+emulator @pixel
+clear
+git checkout aisy
+git pull origin master
+cd Projects\mobile-banking-rn\
+clear
+ipconfig
+exit
+react-native start
+exit
+emulator @pixel
+exit
+exit
+cd %GOPATH%/src
+cd frameworkgolang\
+go build
+frameworkgolang.exe 
+D:
+cd Iseng\
+LS
+CD rnative\
+ls
+code .
+npm i --save react-native-firebase
+npm install
+react-native link
+react-native link react-native-firebase
+gradle build
+cd gradle\
+gradle update
+cd../
+cd android\
+gradlew clean
+cd ../
+react-native run-android
+clear
+go build
+frameworkgolang.exe 
+cd Iseng\
+LS
+CD rnative\
+ls
+code .
+npm i --save react-native-firebase
+npm install
+react-native link
+react-native link react-native-firebase
+gradle build
+cd gradle\
+gradle update
+cd../
+cd android\
+gradlew clean
+cd ../
+cd %GOPATH%/src/
+cd frameworkgolang\
+tree /f
+D:
+cd Projects\mobile-banking-rn\
+git pull origin masster
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+react-native run-android
+clear
+react-native start
+exit
+emulator @pixel
+exit
+cd ../
+react-native run-android
+clear
+exit
+emulator @pixel
+exit
+git checkout master
+git pull originmmaster
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+ipconfig
+cd %GOPATH%/src/frameworkgolang
+clear
+go build
+frameworkgolang.exe 
+emulator @pixel
+go build
+frameworkgolang.exe 
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+go build
+D:
+cd Projects\
+C:
+cd %GOPATH%/src/frameworkgolang
+frameworkgolang.exe 
+clear
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+go build
+D:
+cd Projects\
+C:
+cd %GOPATH%/src/frameworkgolang
+frameworkgolang.exe 
+git push origin aisy
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+clear
+git checkout aisy
+clear
+emulator @pixel
+cd %GOPATH%/src/frameworkgolang
+frameworkgolang.exe 
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+emulator @pixel
+frameworkgolang.exe 
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+react-native run android
+react-native run-android
+react-native run-android
+cd $GOPATH
+cd %GOPATH%/src/frameworkgolang
+git pull origin master
+clear
+npm i react-native-cli -g
+npm install react-native-lfcarousel --save
+exit
+react-native run-android
+react-native run-android
+cd $GOPATH
+cd %GOPATH%/src/frameworkgolang
+git pull origin master
+D:
+cd Iseng\
+create-react-app rnweb
+cd rnweb\
+code .
+npm i react-native 
+npm i react-native-web react-art 
+npm i react-native-swiper --save
+npm start
+clear
+../
+code .
+npm i --save react-native-firebase
+npm install
+react-native link
+react-native link react-native-firebase
+gradle build
+cd gradle\
+gradle update
+cd../
+cd android\
+gradlew clean
+cd ../
+react-native run-android
+clear
+go build
+frameworkgolang.exe 
+cd Iseng\
+LS
+CD rnative\
+ls
+code .
+npm i --save react-native-firebase
+npm install
+react-native link
+react-native link react-native-firebase
+gradle build
+cd gradle\
+gradle update
+cd../
+cd android\
+gradlew clean
+cd ../
+cd %GOPATH%/src/
+cd frameworkgolang\
+tree /f
+D:
+cd Projects\mobile-banking-rn\
+git pull origin masster
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+react-native run-android
+clear
+react-native start
+exit
+emulator @pixel
+exit
+cd ../
+react-native run-android
+clear
+exit
+emulator @pixel
+exit
+git checkout master
+git pull originmmaster
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+ipconfig
+cd %GOPATH%/src/frameworkgolang
+clear
+go build
+frameworkgolang.exe 
+emulator @pixel
+go build
+frameworkgolang.exe 
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+D:
+cd Projects\
+C:
+cd %GOPATH%/src/frameworkgolang
+frameworkgolang.exe 
+clear
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+D:
+cd Projects\
+C:
+cd %GOPATH%/src/frameworkgolang
+frameworkgolang.exe 
+git push origin aisy
+git pull origin master
+clear
+clear
+emulator @pixel
+cd %GOPATH%/src/frameworkgolang
+frameworkgolang.exe 
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+emulator @pixel
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+react-native run android
+react-native run-android
+react-native run-android
+cd $GOPATH
+cd %GOPATH%/src/frameworkgolang
+git pull origin master
+clear
+npm i react-native-cli -g
+npm install react-native-lfcarousel --save
+exit
+react-native run-android
+react-native run-android
+cd $GOPATH
+D:
+cd Iseng\
+create-react-app rnweb
+cd rnweb\
+code .
+npm i react-native 
+npm i react-native-web react-art 
+npm i react-native-swiper --save
+npm start
+../
+cd %GOPATH%/src/frameworkgolang
+
+go build
+frameworkgolang.exe 
+git pull origin master
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+D:
+cd Projects\
+clear
+emulator @pixel
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+react-native start
+D:
+cd Projects\
+C:
+cd %GOPATH%/src/frameworkgolang
+frameworkgolang.exe 
+clear
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+D:
+cd Projects\
+C:
+cd %GOPATH%/src/frameworkgolang
+frameworkgolang.exe 
+git push origin aisy
+git pull origin master
+clear
+clear
+emulator @pixel
+cd %GOPATH%/src/frameworkgolang
+frameworkgolang.exe 
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+emulator @pixel
+D:
+cd Projects\mobile-banking-rn\
+clear
+react-native start
+react-native run android
+react-native run-android
+react-native run-android
+cd $GOPATH
+cd %GOPATH%/src/frameworkgolang
+git pull origin master
+clear
+npm i react-native-cli -g
+npm install react-native-lfcarousel --save
+react-native run-android
+react-native run-android
+cd $GOPATH
+D:
+cd Iseng\
+create-react-app rnweb
+cd rnweb\
+code .
+npm i react-native 
+npm i react-native-web react-art 
+npm i react-native-swiper --save
+npm start
+../
+git checkout master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+D:
+cd Projects\
+clear
+emulator @pixel
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+cd %GOPATH%/src/frameworkgolang
+go build
+frameworkgolang.exe 
+clear
+git pull origin master
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+exit
+clear
+emulator @pixel
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+abd devices
+abd-devices
+adb-devices
+adb devices
+react-native run-android
+ear
+clear
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+react-native start
+emulator @pixel
+D:
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+cd Projects\
+cd mobile-banking-rn\
+clear
+react-native start
+emulator @pixel
+emulator @pixel
+cd Projects\
+cd mobile-banking-rn\
+D:
+cd Projects\mobile-banking-rn\
+react-native start
+clear
+git push origin master
+git checkout aisy
+clear
+D:
+cd Projects\
+clear
+emulator @pixel
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+clear
+git pull origin master
+exit
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+git checkout aisy
+clear
+clear
+emulator @pixel
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+abd devices
+abd-devices
+adb-devices
+adb devices
+react-native run-android
+ear
+clear
+clear
+react-native start
+emulator @pixel
+D:
+cd Projects\
+cd mobile-banking-rn\
+react-native start
+cd %GOPATH%/src/frameworkgolang
+
+git status
+git checkout aisy
+clear
+git checkout master
+git pull origin master
+git merge aisy
+git push origin master
+go build
+frameworkgolang.exe 
+exit
+emulator @pixel
+exit
+D:
+cd Projects\
+ls
+cd mobile-banking-rn\
+clear
+react-native start
+emulator @pixel
+D:
+cd Projects\mobile-banking-rn\
+clear
+emulator @pixel
+exit
+D:
+cd mobile-banking-rn\
+clear
+react-native start
+emulator @pixel
+cd Projects\mobile-banking-rn\
+D:
+cd Projects\
+cd brilife\
+cd ../
+react-native init brilife
+window .
+windows .
+rm -rf brilife
+clea
+ls
+react-native init briLife
+clear
+clea
+D:
+cd Projects\
+ls
+rm -rf brilife
+react-native init briLife
+clear
+cd briLife\
+ls
+rm -rf brilife
+react-native init briLife
+cd briLife\
+git init
+clear
+clear
+D:
+cd Projects\mobile-banking-rn\
+clear
